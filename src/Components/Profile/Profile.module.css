@@ -7,10 +7,35 @@
 
 .Image {
   height: auto;
-  max-width: 100px;
+  max-width: 80px;
 }
 
 .AccountCircleContainer {
   text-align: center;
   padding-bottom: 10px;
+}
+
+.ListTiles {
+  padding-left: 20px;
+  padding-top: 40px;
+}
+
+.ListTile {
+  padding: 10px;
+}
+
+.LinkLabel {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding-top: 40px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.Label {
+}
+
+.LinkText {
+  color: red;
 }

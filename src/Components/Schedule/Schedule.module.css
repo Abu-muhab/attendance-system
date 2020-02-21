@@ -1,0 +1,20 @@
+.Schedule {
+  height: 100%;
+  width: 40%;
+  background-color: white;
+  border-radius: 20px;
+}
+
+.Title {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 30px 10px;
+}
+
+.DayIndicator {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}

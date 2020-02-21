@@ -1,0 +1,66 @@
+.ListTile {
+  width: auto;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.IconContainer {
+  height: 45px;
+  width: 45px;
+  border-radius: 10px;
+  background-color: rgb(189, 189, 218);
+  float: left;
+  vertical-align: middle;
+  text-align: center;
+  display: inline-flex;
+  justify-content: center;
+  align-self: center;
+}
+
+.TitleContainer {
+  width: 135px;
+  height: 45px;
+  padding-left: 15px;
+  font-size: 0.8em;
+  display: inline-flex;
+  flex-direction: column;
+  vertical-align: middle;
+  justify-content: center;
+}
+
+.Title {
+  /* padding-bottom: 4px; */
+}
+
+.SubTitle {
+  padding-bottom: 4px;
+  color: grey;
+}
+
+.Image {
+  width: 20px;
+  height: auto;
+  vertical-align: middle;
+  align-self: center;
+}
+
+.Progress {
+  height: 5px;
+  width: 50px;
+  background-color: rgb(92, 92, 221);
+}
+
+.ProgressBar {
+  height: 5px;
+  width: 100px;
+  background-color: rgb(172, 172, 172);
+}
+
+.ProgressBarContainer {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  color: rgb(92, 92, 221);
+}
