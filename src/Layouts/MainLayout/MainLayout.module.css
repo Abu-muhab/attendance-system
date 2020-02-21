@@ -1,0 +1,26 @@
+.left {
+  background-color: white;
+  padding: 0px;
+  margin: 0px;
+  width: 20vw;
+  height: 100vh;
+  float: left;
+}
+
+.center {
+  background-color: white;
+  padding: 0px;
+  margin: 0px;
+  float: left;
+  width: 60vw;
+  height: 100vh;
+}
+
+.right {
+  background-color: white;
+  padding: 0px;
+  margin: 0px;
+  float: left;
+  width: 20vw;
+  height: 100vh;
+}

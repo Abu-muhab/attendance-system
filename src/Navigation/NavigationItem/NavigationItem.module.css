@@ -1,0 +1,16 @@
+.Image {
+  max-width: auto;
+  height: 20px;
+  vertical-align: middle;
+}
+
+.NavItemContainer {
+  padding-left: 50px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+.NavText {
+  vertical-align: middle;
+  padding-left: 10px;
+}
