@@ -2,7 +2,7 @@
   height: 100%;
   width: 40%;
   background-color: white;
-  border-radius: 20px;
+  border-radius: 10px;
 }
 
 .Title {
@@ -17,4 +17,20 @@
   display: flex;
   flex-direction: row;
   justify-content: center;
+}
+
+.ButtonContainer {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.ScheduleButton {
+  border: none;
+  height: 50px;
+  width: 80%;
+  border-radius: 5px;
+  background-color: rgb(97, 97, 231);
+  color: white;
 }

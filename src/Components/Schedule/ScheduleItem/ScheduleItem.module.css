@@ -1,0 +1,36 @@
+.TimeStamp {
+  font-weight: bold;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.ContentContainer {
+  border-left-style: dashed;
+  border-left-width: 1px;
+  border-left-color: blue;
+  height: 100px;
+  width: auto;
+  display: flex;
+  align-items: center;
+  padding-left: 30px;
+}
+
+.ContentSubContainer {
+  width: 200px;
+  background-color: rgb(164, 164, 185);
+  padding: 15px;
+  border-radius: 10px;
+}
+
+.Dot {
+  height: 5px;
+  width: 5px;
+  border-radius: 10px;
+  background-color: blue;
+}
+
+.Time {
+  padding-left: 5px;
+  font-size: 0.7em;
+}
