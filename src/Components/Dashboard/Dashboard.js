@@ -13,6 +13,9 @@ const Dashboard = props => (
         <MessagePreview></MessagePreview>
       </div>
     </div>
+    <div className={classes.RowTwo}>
+      
+    </div>
   </div>
 );
 
